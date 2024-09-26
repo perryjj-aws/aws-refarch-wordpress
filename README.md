@@ -4,6 +4,8 @@
 
 # **Hosting WordPress on AWS**
 
+THIS SITE IS NO LONGER MAINTAINED AS OF SEPTEMBER 2024
+
 ### Version 2.0.2
 
 ara-wp-2.0.2
